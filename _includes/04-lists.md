@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Favorite things:
+1. Pancakes
+2. Pasta
+3. Bread
